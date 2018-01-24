@@ -1,0 +1,6 @@
+game_name = "Dimahoo"
+system = "arcade"
+creator = "AndrewH"
+rom_config = "dimahoo.zip.cfg"
+overlay_config = "dimahoo.cfg"
+overlay_image = "dimahoo.png"
