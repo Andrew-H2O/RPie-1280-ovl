@@ -1,0 +1,6 @@
+game_name = "Frogger"
+system = "arcade"
+creator = "AndrewH"
+rom_config = "frogger.zip.cfg"
+overlay_config = "frogger-AH.cfg"
+overlay_image = "frogger-AH.png"

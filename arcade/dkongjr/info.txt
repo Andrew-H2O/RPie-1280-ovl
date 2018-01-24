@@ -1,0 +1,6 @@
+game_name = "Donkey Kong Jr."
+system = "arcade"
+creator = "AndrewH"
+rom_config = "dkongjr.zip.cfg"
+overlay_config = "dkongjr-AH.cfg"
+overlay_image = "dkongjr-AH.png"

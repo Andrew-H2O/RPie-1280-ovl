@@ -1,0 +1,6 @@
+game_name = "Guwange"
+system = "arcade"
+creator = "AndrewH"
+rom_config = "guwange.zip.cfg"
+overlay_config = "guwange-AH.cfg"
+overlay_image = "guwange-AH.png"

@@ -1,0 +1,6 @@
+game_name = "Mercs"
+system = "arcade"
+creator = "AndrewH"
+rom_config = "mercs.zip.cfg"
+overlay_config = "mercs-AH.cfg"
+overlay_image = "mercs-AH.png"

@@ -1,0 +1,6 @@
+game_name = "ESP Ra.De."
+system = "arcade"
+creator = "AndrewH"
+rom_config = "esprade.zip.cfg"
+overlay_config = "esprade-AH.cfg"
+overlay_image = "esprade-AH.png"

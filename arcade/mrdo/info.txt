@@ -1,0 +1,6 @@
+game_name = "Mr. Do"
+system = "arcade"
+creator = "AndrewH"
+rom_config = "mrdo.zip.cfg"
+overlay_config = "mrdo-AH.cfg"
+overlay_image = "mrdo-AH.png"

@@ -1,0 +1,6 @@
+game_name = "Time Pilot"
+system = "arcade"
+creator = "AndrewH"
+rom_config = "timeplt.zip.cfg"
+overlay_config = "timeplt-AH.cfg"
+overlay_image = "timeplt-AH.png"

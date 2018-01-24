@@ -1,0 +1,6 @@
+game_name = "Bombjack"
+system = "arcade"
+creator = "AndrewH"
+rom_config = "bombjack.zip.cfg"
+overlay_config = "bombjack-AH.cfg"
+overlay_image = "bombjack_2-AH.png"

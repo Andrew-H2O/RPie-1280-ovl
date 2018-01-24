@@ -1,0 +1,6 @@
+game_name = "Pacman"
+system = "arcade"
+creator = "AndrewH"
+rom_config = "pacman.zip.cfg"
+overlay_config = "pacman-AH.cfg"
+overlay_image = "pacman-AH.png"

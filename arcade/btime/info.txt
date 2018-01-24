@@ -1,0 +1,6 @@
+game_name = "Burger Time"
+system = "arcade"
+creator = "AndrewH"
+rom_config = "btime.zip.cfg"
+overlay_config = "btime-AH.cfg"
+overlay_image = "btime-AH.png"

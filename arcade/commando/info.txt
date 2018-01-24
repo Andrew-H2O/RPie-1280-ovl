@@ -1,0 +1,6 @@
+game_name = "Commando"
+system = "arcade"
+creator = "AndrewH"
+rom_config = "commando.zip.cfg"
+overlay_config = "commando-AH.cfg"
+overlay_image = "commando-AH.png"

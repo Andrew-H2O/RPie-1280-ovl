@@ -1,0 +1,6 @@
+game_name = "Centipede"
+system = "arcade"
+creator = "AndrewH"
+rom_config = "centiped.zip.cfg"
+overlay_config = "centiped-AH.cfg"
+overlay_image = "centiped-AH.png"

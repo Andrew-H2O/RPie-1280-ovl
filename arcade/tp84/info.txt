@@ -1,0 +1,6 @@
+game_name = "Time Pilot '84"
+system = "arcade"
+creator = "AndrewH"
+rom_config = "tp84.zip.cfg"
+overlay_config = "tp84-AH.cfg"
+overlay_image = "tp84-AH.png"

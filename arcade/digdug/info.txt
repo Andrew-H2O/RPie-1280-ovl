@@ -1,0 +1,6 @@
+game_name = "Dig Dug"
+system = "arcade"
+creator = "AndrewH"
+rom_config = "digdug.zip.cfg"
+overlay_config = "digdug-AH.cfg"
+overlay_image = "digdug-AH.png"

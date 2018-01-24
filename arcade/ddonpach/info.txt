@@ -1,0 +1,6 @@
+game_name = "DoDonPachi"
+system = "arcade"
+creator = "AndrewH"
+rom_config = "ddonpach.zip.cfg"
+overlay_config = "ddonpach-AH.cfg"
+overlay_image = "ddonpach-AH.png"

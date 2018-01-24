@@ -1,0 +1,6 @@
+game_name = "Armed Police Batrider"
+system = "arcade"
+creator = "AndrewH"
+rom_config = "batrider.zip.cfg"
+overlay_config = "batrider-AH.cfg"
+overlay_image = "batrider-AH.png"

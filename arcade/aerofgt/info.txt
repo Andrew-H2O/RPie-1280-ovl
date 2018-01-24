@@ -1,0 +1,6 @@
+game_name = "Aero Fighters"
+system = "arcade"
+creator = "AndrewH"
+rom_config = "aerofgt.zip.cfg"
+overlay_config = "aerofgt-AH.cfg"
+overlay_image = "aerofgt-AH.png"
