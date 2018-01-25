@@ -2,9 +2,8 @@
 Arcade game overlays created for Lr-Mame2003 (latest version with correct aspect ratio) and 1280x1024 Display.
 
 Original logos, artwork, graphics and trademarks are property of their respective owners. 
-# These Overlays are **NOT** for commercial use.
 
-## How to install (pending)
+## How to install (recommended)
 
 Using meleu's [`rpie-art.sh` script](https://github.com/meleu/rpie-art):
 
@@ -38,5 +37,3 @@ Game specific launching images are named `RomName-lanching.png` (or `.jpg`).
 To install copy the image to the `RetroPie/roms/[SYSTEM]/images/` folder on your RetroPie and, if needed, rename the file to match the exact name of the ROM plus the trailing `-launching.png` (or `.jpg`).
 
 Have fun !
-
-**NOT FOR COMMERCIAL USE**
