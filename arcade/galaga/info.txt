@@ -1,0 +1,6 @@
+game_name = "Galaga"
+system = "arcade"
+creator = "AndrewH"
+rom_config = "galaga.zip.cfg"
+overlay_config = "galaga-AH.cfg"
+overlay_image = "galaga-AH.png"
