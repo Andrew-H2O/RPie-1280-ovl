@@ -1,0 +1,6 @@
+game_name = "Galaxian"
+system = "arcade"
+creator = "AndrewH"
+rom_config = "galaxian.zip.cfg"
+overlay_config = "galaxian-AH.cfg"
+overlay_image = "galaxian-AH.png"
