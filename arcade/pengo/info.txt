@@ -1,0 +1,6 @@
+game_name = "Pengo"
+system = "arcade"
+creator = "AndrewH"
+rom_config = "pengo.zip.cfg"
+overlay_config = "pengo-AH.cfg"
+overlay_image = "pengo-AH.png"
