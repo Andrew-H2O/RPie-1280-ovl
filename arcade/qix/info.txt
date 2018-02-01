@@ -1,0 +1,6 @@
+game_name = "Qix"
+system = "arcade"
+creator = "AndrewH"
+rom_config = "qix.zip.cfg"
+overlay_config = "qix-AH.cfg"
+overlay_image = "qix-AH.png"
