@@ -1,0 +1,6 @@
+game_name = "Contra"
+system = "arcade"
+creator = "AndrewH"
+rom_config = "contra.zip.cfg"
+overlay_config = "contra-AH.cfg"
+overlay_image = "contra-AH.png"
