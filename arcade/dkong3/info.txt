@@ -1,0 +1,6 @@
+game_name = "Donkey Kong 3"
+system = "arcade"
+creator = "AndrewH"
+rom_config = "dkong3.zip.cfg"
+overlay_config = "dkong3-AH.cfg"
+overlay_image = "dkong3-AH.png"
