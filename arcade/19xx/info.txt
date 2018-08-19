@@ -1,0 +1,6 @@
+game_name = "19xx"
+system = "arcade"
+creator = "AndrewH"
+rom_config = "19xx.zip.cfg"
+overlay_config = "19xx-AH.cfg"
+overlay_image = "19xx-AH.png"

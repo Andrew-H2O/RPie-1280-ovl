@@ -1,0 +1,6 @@
+game_name = "1943"
+system = "arcade"
+creator = "AndrewH"
+rom_config = "1943.zip.cfg"
+overlay_config = "1943-AH.cfg"
+overlay_image = "1943-AH.png"
